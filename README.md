@@ -1,2 +1,2 @@
-# test-md-img
-just for images used in markdown files of my GitHub project
+# markdown image
+images used in markdown files
